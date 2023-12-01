@@ -29,6 +29,7 @@ Ayush Gaud
 Gabi Nelepcu
 - [amin2ace] (https://github.com/amin2ace/)
 - [Vikram Shetty] (https://github.com/vikram71198)
+- [Gaurav Shetty] (https://github.com/Gaurav0203Shetty)
 - [Hexstars] (https://github.com/Hexstars)
 - [kt28397] (https://github.com/kt28397/)
 - [fezzo] (https://github.com/fedelopre)
